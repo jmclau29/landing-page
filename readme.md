@@ -1,0 +1,1 @@
+This is a landing page for The Odin Project. It shows a landing page for an imaginary Japanese tourism promotion company.
