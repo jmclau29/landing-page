@@ -16,6 +16,11 @@ header {
     padding: 12px;
 }
 
+header a {
+    color: #e5e7eb;
+    font-size: 18px;
+    text-decoration: none;
+}
 img {
     border-radius: 50px;
 }
@@ -56,11 +61,12 @@ img {
     background-color: #3882f6;
     color: #F9FAF8;
     border: none;
+    width: fit-content;
     border-radius: 10px;
-    padding: 10px;
+    padding: 10px 30px;
     font-weight: bolder;
     font-size: 18px;
-    width: fit-content;
+    min-width: fit-content;
 }
 
 .hero-image {
@@ -143,8 +149,6 @@ img {
 
 .action .hero-button {
     border: 2px solid #e5e7eb;
-    margin-left: 100px;
-    
 }
 
 footer {
